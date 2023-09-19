@@ -14,5 +14,7 @@ Este é uma orientação e passo a passo do nosso jogo do Unity inspirado em Ste
 # Aviso 
 * Perseguição teve erros por justamente não ter ensinaso
 * PC não estava querendo ir e editar os scripts
-
 * Tentamos ajeitar o jogo mas não estava funcionando. pedimos desculpas!
+
+*  ## Erro do jogo
+![Erro do jogo jpg](https://github.com/Carlos-Alarcon-A/Jogo-Unity/assets/128370700/cf11a048-792c-4e7c-b64c-8732d205afaa)
